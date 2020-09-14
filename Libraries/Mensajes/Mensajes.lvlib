@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="19008000">
+	<Property Name="NI.Lib.Description" Type="Str">This module shows information about recent actions like configuration, showing welcome greeting or the actual process </Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;8"D&gt;.!&amp;-&lt;RTWA0(%E(+#V],;1#J,4Q7MD62S-EDECP".)!B\4Q2!&amp;);3%NG,`(M^E^:-E&amp;%%*L:\,/ZZFZPYQ&gt;L^3WN^+$ZHP&lt;NV^OV`0TWNK!:[/?TM`N^&gt;DVRPBZ(&gt;]/&lt;YR`(,BW?_(]7PF7`2@^&gt;T;^&lt;K`&lt;`\W.&gt;X]%@`RX-'BZ%.'+FL3A75P:O=C,P-C,P-C,0-G40-G40-G40-C$0-C$0-C$X/1G.\H*47\SNJ/,8/1CBV15,QI6ER94&amp;*WBK(AL0)7H]"1?0KLQ&amp;*\#5XA+$VV5?!J0Y3E]B9&gt;B+DS&amp;J`!5HM,$6%V3&lt;3@(5XC98IEH]33?R*.Y++H%EQ#39MH%S31QF*R-$B*0YEE](#LR**\%EXA3$[?6?"*0YEE]C9=B&lt;67S;:;&gt;(!`4+0!%HM!4?!)05SPQ"*\!%XA#$_55?!*0A!A+"J.$5$!I[""]#$S"BT]+0)%H]!3?Q-/J&gt;I7CL=SC78:S0-:D0-:D0-&lt;$&amp;$)?YT%?YT%?JJ8R')`R')`R5%L'9TT'9S#G+/6F*D-$43=4'!_P&gt;L?Y8;6M%L&gt;&gt;[D?P_EWJ@L/JXU4K.Y@[26?`G/I838XRV2&gt;6@&lt;(5&amp;U(^S[GDV4(K2&gt;1(,RVVY@V-/^'/N)FWI/VJ/^K7NFG'`O;/F]N&amp;Z`.:J^.*R_.2UT4J=$BIP^^LN^NJO^VKM^F=(Q0PW;]0B07Z.()]@PQ_D$`?$?08,]-Y@2D'4Z_(*@],`Z``A7?DXOBZ$&gt;&lt;I*Z^IL"Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
